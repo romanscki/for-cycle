@@ -7,7 +7,7 @@ public class Main {
         for (int a = 0; a <= value; a = a + 1) {
             for (int b = 1; b <= value; b = b + 1) {
                 if (a * b == value) {
-                    System.out.println(a + "*" + b + "!");
+                    System.out.println(a + "*" + b + "Готово");
                 }
             }
         }
